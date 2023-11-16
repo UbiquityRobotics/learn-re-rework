@@ -18,6 +18,7 @@ See the [Software Images and SD Card Flashing](noetic_quick_start_microsd) guide
 | Architecture | armhf (32 bit) |
 | SHA256 Sum   | 8bf16ab7ae78d3804b9d96b2326276f61e54b346fc6745f1f2034837848a2f98 |
 | Status | <b style="color: green;">Latest</b> |
+| Firmware | <b style="color: green;">V43 firmware recommended</b> |
 | Notes | Stable Noetic image, with Gnome desktop. |
 
 <br>
@@ -28,6 +29,7 @@ See the [Software Images and SD Card Flashing](noetic_quick_start_microsd) guide
 | Architecture | armhf (32 bit) |
 | SHA256 Sum   | 7692a22265421b511baf8c2563ca20bf27bbe64f7f4a696923b56d0e1cc139ec |
 | Status | <b style="color: green;">Active</b> |
+| Firmware | <b style="color: green;">V43 firmware recommended</b> |
 | Notes | Added support for rev 1.5 Pi 4s, no desktop. |
 
 <br>
